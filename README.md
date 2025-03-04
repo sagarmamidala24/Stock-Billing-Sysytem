@@ -12,7 +12,7 @@ For each item, the user is prompted to enter a unique SKU number, product name, 
 After entering the details for each product, the user is asked whether they want to add more items. If they choose "Y" or "y," the script continues; otherwise, 
 it stops data entry.
 
-### Product Lookup:
+#### Product Lookup:
 
 The script then enters a loop where the user can input an SKU number to retrieve information about a specific product.
 
