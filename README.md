@@ -1,17 +1,9 @@
-# Stock-Billing-Sysytem
-This code allows you to manage SKU numbers, product names, prices, and quantities. 
-It starts by asking the user to input the number of items they want to add. 
-For each item, the user is prompted to enter a unique SKU number, product name, quantity, and price. 
-The user then has the option to add more items or stop.
 
-Once the product details are entered, the script enters a loop where the user can input an SKU number to retrieve information about a specific product. 
-If the SKU number is found in the list, the script prints the product name, total cost (calculated as quantity multiplied by price), quantity, and single price. 
-If the SKU number is not found, the user is prompted to enter a valid SKU number, and this process continues until a valid SKU number is entered.
 
 # Stock-Billing system Overview
 This script is designed to manage SKU numbers, product names, prices, and quantities efficiently. It consists of two main parts: data entry and product lookup.
 
-# Data Entry:
+## Data Entry:
 
 The script starts by asking the user to input the number of items they wish to add (size).
 
