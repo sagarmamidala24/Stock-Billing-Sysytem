@@ -35,4 +35,4 @@ The  calculates and displays the total cost based on the quantity and price of t
 ### Benefits:
 This programm is a simple yet effective way to manage product inventory, allowing users to input and retrieve product details based on SKU numbers.
 
-The interactive nature of the script ensures that users can easily manage and access their inventory without the need for complex software.
+The interactive nature of the script ensures that users can easily manage and access their inventory without the need for complex software..
